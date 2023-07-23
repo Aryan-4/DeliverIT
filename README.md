@@ -2,7 +2,7 @@
 
 SendIT is a courier service that helps users deliver *parcels* to different destinations. SendIT provides courier quotes based on weight categories.
 
-### Link to Website - https://64bcca4e624b4170a766d50e--phenomenal-mermaid-004bbb.netlify.app/#
+### Link to Website - https://64bda659846f6e6ce5395601--splendid-chimera-814bd9.netlify.app
 
 ## Features
 - Users can create an account and log in.
